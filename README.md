@@ -19,10 +19,6 @@
         - Need to get Clubs to place QR codes on posters when advertisements 
 
 ### Other Ideas:
-- Discover section where people can discover clubs and initiatives our school is participating in and how we can join them as well
-- Maybe include a quiz where we can allow them to try and find the clubs that suit them the best
-- Reference potential answers to clubs(set key words for clubs and make the system search for them)
-
 
 - Teacher/Guidance Counsellor Contact Info 
 - Potential future features box(suggestions box)
