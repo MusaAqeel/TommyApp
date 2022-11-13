@@ -20,8 +20,6 @@
 
 ### Other Ideas:
 
-- Teacher/Guidance Counsellor Contact Info 
-- Potential future features box(suggestions box)
 
 
 ### AWS Solutions
